@@ -1,4 +1,7 @@
 ## Welcome to GitHub Pages
+Shanmugavel
+191ME222
+Just started coding in 29-April-2022
 
 You can use the [editor on GitHub](https://github.com/Shanvel002/Vel-Learn/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
