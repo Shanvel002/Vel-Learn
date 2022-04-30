@@ -1,0 +1,18 @@
+h2{
+	color:yellow;
+}
+p
+{font-size: 22px;
+color: red;
+font-weight: bold;}
+a:link, a:visited {
+text-decoration:  none;
+color: violate;
+background-color: black;
+border:  1px solid bluel;
+display: block;
+width: 200px:;
+text-align:  center;
+margin-bottom:  1px;
+}
+
